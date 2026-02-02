@@ -23,6 +23,20 @@ The analysis focuses on understanding **repayment behavior**, **risk signals**, 
 - **Target Variable:** `loan_status`  
   (Current, Fully Paid, Charged Off, Default, Late, etc.)
 
+## 📂 Dataset Access
+
+Due to GitHub file size limits, the dataset is **not included** in this repository.
+
+🔗 **Dataset Source:**  
+Kaggle – BNPL Dataset (v1)  
+[https://www.kaggle.com/datasets/bdoey1/bnpl-data-v1]
+
+### How to use:
+1. Download the dataset from Kaggle
+2. Place the CSV file inside the `data/` folder
+3. Run the notebook normally
+
+
 ### Key Features
 - Financial: `loan_amount`, `interest_rate`, `monthly_payment`
 - Credit Profile: `annual_income`, `total_dti`, `credit_limit`
