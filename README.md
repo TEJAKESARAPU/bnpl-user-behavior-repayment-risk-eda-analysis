@@ -92,13 +92,14 @@ https://www.kaggle.com/datasets/bdoey1/bnpl-data-v1
 - Outlier treatment improved distribution quality without biasing medians
 
 ---
+
 ## 📊 Key Visual Insights
 ### Loan Amount Distribution
-[![Loan Amount Distribution](visuals/Loan Amount Distribution.png)](visuals/Loan%20Amount%20Distribution.png)
+[View visualization](visuals/Loan%20Amount%20Distribution.png)
 ### Loan Amount vs Loan Status
-[![Loan Amount vs Loan Status](visuals/Loan Amount Distribution Across Loan Outcomes.png)](visuals/Loan%20Amount%20Distribution%20Across%20Loan%20Outcomes.png)
+[View visualization](visuals/Loan%20Amount%20Distribution%20Across%20Loan%20Outcomes.png)
 ### Loan Purpose vs Repayment Risk
-[![Loan Purpose vs Loan Status Heatmap](visuals/Heatmap- Loan Purpose vs Loan Status.png)](visuals/Heatmap-%20Loan%20Purpose%20vs%20Loan%20Status.png)
+[View visualization](visuals/Heatmap-%20Loan%20Purpose%20vs%20Loan%20Status.png)
 
 > Visuals are generated from the full dataset and represent portfolio-level risk patterns.
 > Additional exploratory plots are available in the `/visuals` directory.
