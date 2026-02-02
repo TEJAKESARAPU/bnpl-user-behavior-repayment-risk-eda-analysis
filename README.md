@@ -93,10 +93,13 @@ https://www.kaggle.com/datasets/bdoey1/bnpl-data-v1
 
 ---
 
-## 📸 Sample Visualizations
-- Loan Status Distribution
-- Interest Rate vs Loan Outcome
-- Loan Purpose vs Repayment Risk
+## 📊 Key Visual Insights
+### Loan Amount Distribution
+![Loan Amount Distribution](visuals/Loan Amount Distribution.png)
+### Loan Amount vs Loan Status
+![Loan Amount vs Loan Status](visuals/Loan Amount Distribution Across Loan Outcomes.png)
+### Loan Purpose vs Repayment Risk
+![Loan Purpose vs Loan Status Heatmap](visuals/Heatmap- Loan Purpose vs Loan Status.png)
 
 > Visuals are generated from the full dataset and represent portfolio-level risk patterns.
 > Additional exploratory plots are available in the `/visuals` directory.
