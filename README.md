@@ -29,13 +29,14 @@ Due to GitHub file size limits, the dataset is **not included** in this reposito
 
 🔗 **Dataset Source:**  
 Kaggle – BNPL Dataset (v1)  
-[https://www.kaggle.com/datasets/bdoey1/bnpl-data-v1]
+https://www.kaggle.com/datasets/bdoey1/bnpl-data-v1
 
 ### How to use:
 1. Download the dataset from Kaggle
 2. Place the CSV file inside the `data/` folder
 3. Run the notebook normally
 
+---
 
 ### Key Features
 - Financial: `loan_amount`, `interest_rate`, `monthly_payment`
