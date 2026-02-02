@@ -1,4 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![EDA](https://img.shields.io/badge/Analysis-EDA-orange)
+
 # Exploratory Data Analysis of BNPL User Behavior & Repayment Risk
+
 
 ## 📌 Project Overview
 This project performs end-to-end Exploratory Data Analysis (EDA) on a large-scale Buy Now Pay Later (BNPL) dataset to identify borrower characteristics and loan attributes associated with higher repayment risk.
@@ -22,6 +27,8 @@ The analysis focuses on understanding **repayment behavior**, **risk signals**, 
 - **Features:** 29 (16 numerical, 13 categorical)
 - **Target Variable:** `loan_status`  
   (Current, Fully Paid, Charged Off, Default, Late, etc.)
+  
+  > Dataset is sourced from Kaggle and is subject to its original license and usage terms.
 
 ## 📂 Dataset Access
 
@@ -84,6 +91,17 @@ https://www.kaggle.com/datasets/bdoey1/bnpl-data-v1
 - **Renters** exhibit higher charge-off rates than mortgage holders
 - Income alone is insufficient—**multivariate interactions** matter
 - Outlier treatment improved distribution quality without biasing medians
+
+---
+
+## 📸 Sample Visualizations
+
+- Loan Status Distribution
+- Interest Rate vs Loan Outcome
+- Loan Purpose vs Repayment Risk
+
+> Visuals are generated from the full dataset and represent portfolio-level risk patterns.
+> Additional exploratory plots are available in the `/visuals` directory.
 
 ---
 
