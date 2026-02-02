@@ -31,7 +31,6 @@ The analysis focuses on understanding **repayment behavior**, **risk signals**, 
   > Dataset is sourced from Kaggle and is subject to its original license and usage terms.
 
 ## 📂 Dataset Access
-
 Due to GitHub file size limits, the dataset is **not included** in this repository.
 
 🔗 **Dataset Source:**  
@@ -95,7 +94,6 @@ https://www.kaggle.com/datasets/bdoey1/bnpl-data-v1
 ---
 
 ## 📸 Sample Visualizations
-
 - Loan Status Distribution
 - Interest Rate vs Loan Outcome
 - Loan Purpose vs Repayment Risk
@@ -110,20 +108,6 @@ https://www.kaggle.com/datasets/bdoey1/bnpl-data-v1
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Jupyter Notebook
-
----
-
-## 📌 Limitations
-- Observational, cross-sectional analysis
-- No temporal or cohort-based modeling
-- Class imbalance requires rate-based evaluation for modeling use cases
-
----
-
-## 📈 Next Steps
-- Feature engineering for predictive modeling
-- Time-based cohort analysis
-- Risk scoring and model validation
 
 ---
 
